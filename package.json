@@ -1,0 +1,18 @@
+{
+  "name": "tdd_jest",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "Sarah Silva",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  },
+  "description": "",
+  "dependencies": {
+    "sinon": "^19.0.2"
+  }
+}
