@@ -45,7 +45,7 @@ Para realizar os testes de unidade, utilizamos as seguintes ferramentas essencia
 
 ## Começando com o Projeto
 
-Agora que você já entende a importância dos testes de unidade e as ferramentas que vamos utilizar, vamos aprender como configurar e iniciar o projeto de testes.
+Configurar e iniciar o projeto de testes.
 
 ### Passo 1: Inicializando o Projeto
 
